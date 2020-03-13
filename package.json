@@ -1,0 +1,7 @@
+{
+  "name": "KeepToEvernote",
+  "version": "1.0.0",
+  "dependencies": {
+    "run-applescript": "^4.0.0"
+  }
+}
